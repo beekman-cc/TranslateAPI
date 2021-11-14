@@ -1,24 +1,6 @@
-# test
+# TranslateAPI
 
-## Project setup
+## Description
 ```
-npm install
+To discover Vue.JS I started with a small project around Ikleeralles' API. I've mainly focussed on the back-end and did not focus on the front-end a lot. 
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
